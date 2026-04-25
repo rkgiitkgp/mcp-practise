@@ -48,6 +48,7 @@ uv run main.py
 
 To run the SSE-based weather server independently:
 
+
 ```bash
 uv run servers/weather_server.py
 ```
